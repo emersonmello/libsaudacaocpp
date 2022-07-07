@@ -1,5 +1,7 @@
 # Exemplo de uma biblioteca C++ com CMake 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![ubuntu, macOS, windows build](https://github.com/emersonmello/libsaudacaocpp/actions/workflows/cmake.yaml/badge.svg)](https://github.com/emersonmello/libsaudacaocpp/actions/workflows/cmake.yaml)
+
 
 Neste repositório tem-se um pequeno exemplo sobre como organizar o projeto de uma biblioteca C++ usando o CMake.
 
